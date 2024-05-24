@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+}
+ul li{
+    display: flex;
+    margin: 5px;
+    color: black;
+    margin-left: 100px;
+}
